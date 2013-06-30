@@ -1,0 +1,9 @@
+Package twinAnalysis
+Maintainer datashield@obiba.org
+Author datashield@obiba.org
+Version 1.0
+License GPL-3
+Title Twin analysis methods (server)
+Description Twin analysis methods (server)
+Collate
+    'mxMatrix.R'
